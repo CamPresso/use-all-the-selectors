@@ -1,0 +1,67 @@
+body {
+  background-color: #fdf6e3;
+}
+
+header, footer {
+  font-size: 1.5rem;
+}
+
+ul {
+  font-family: sans-serif;
+}
+
+.logo {
+  text-transform: uppercase;
+}
+
+.wrapper {
+  background-color: #eee8d5;
+}
+
+.dfn {
+  color: #000100;
+}
+
+.no-highlight {
+  background-color: #719e07;
+}
+
+.Raspberry {
+  background-color: #719e47;
+}
+
+.Blueberry {
+  color: #2aa198;
+}
+
+.types li:nth-child(odd) {
+  background-color: #657ba3;
+}
+
+.types li:nth-child(even) {
+  background-color: #586e75;
+}
+
+.types li:nth-child(3n) {
+  background-color: #d04b16;
+}
+
+#contents, #favs, #facts, #types {
+  color: #93a1a1;
+}
+
+p + strong {
+  color: #fff;
+}
+
+.dfn .wrapper {
+  background-color: #b58900;
+}
+
+div > p {
+  background-color: #b58900;
+}
+
+[rel="external"] {
+  background-color: #2694d8;
+}
